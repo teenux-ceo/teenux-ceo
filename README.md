@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 ### Hello World, I'm Adebayo - aka Creative Developer 👋
 
-### * am a Student,Developer,Designer
+###  I am a Student,Developer,Designer
 ### and a Tech Enthusiast!!
 - 🔭 I’m currently working on ...my course
 - 🌱 I’m currently learning ...Python
